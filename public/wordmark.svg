@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- Full Wordmark: Wave + "vaultdrive" text -->
+  
+  <!-- Flowing Wave Mark (the V) -->
+  <path d="M 40 105 
+           C 40 75, 55 58, 75 75 
+           C 88 86, 94 110, 102 130 
+           C 110 150, 122 170, 137 164 
+           C 160 154, 188 118, 220 95" 
+        stroke="#FFFFFF" 
+        stroke-width="28" 
+        fill="none" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  
+  <!-- "vaultdrive" text -->
+  <text x="245" y="120" 
+        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" 
+        font-size="78" 
+        font-weight="300" 
+        fill="#FFFFFF" 
+        letter-spacing="2">
+    vaultdrive
+  </text>
+</svg>

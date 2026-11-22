@@ -1,0 +1,29 @@
+{
+  "name": "vaultdrive-companion",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vite build && vercel --prod"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.13",
+    "lucide-react": "^1.54.0",
+    "motion": "^14.1.0",
+    "react": "^18.3.1",
+    "react-bits": "^1.0.0",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "terser": "^5.51.2",
+    "vite": "^6.0.3"
+  }
+}

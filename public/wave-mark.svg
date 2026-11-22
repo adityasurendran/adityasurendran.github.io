@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Flowing Wave Mark - transparent background -->
+  <path d="M 95 210 
+           C 95 160, 120 130, 155 160 
+           C 175 178, 185 220, 200 260 
+           C 215 300, 235 340, 260 330 
+           C 300 312, 350 250, 410 210" 
+        stroke="#FFFFFF" 
+        stroke-width="52" 
+        fill="none" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+</svg>
